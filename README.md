@@ -8,4 +8,9 @@ The commit view is especially handy if you want to see what was added, changed, 
 The benchmark itself is property of the DISA but [may be distributed or copied](https://public.cyber.mil/privacy-security/).
 The rest of this repository is under GPL-3.0.
 
-If you have any question, please create an issue or contact [Patrick Stöckle](mailto:patrick.stoeckle@tum.de).
+If you have any questions, please create an issue or contact [Patrick Stöckle](mailto:patrick.stoeckle@tum.de).
+
+Please also have a look at
+
+* [DISA Windows Server 2019 STIG Evaluation](https://github.com/tum-i22/disa-windows-server-2019)
+* [CIS Benchmark Evaluation](https://github.com/tum-i22/CIS-Benchmark-Evaluation)
