@@ -1,0 +1,57 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/GPL-3.0+",
+    "codeRepository": "git+https://github.com/tum-i22/disa-windows-server-2016.git",
+    "dateCreated": "2019-02-07",
+    "datePublished": "2020-08-11",
+    "issueTracker": "https://github.com/tum-i22/disa-windows-server-2016/issues",
+    "name": "DISA Windows Server 2016 STIG Evaluation",
+    "description": "This repository contains the DISA Windows Server 2016 STIG benchmark. It is represented in a Markdown/YAML-based syntax. We enriched the rules with important information to implement the benchmark automatically. The result can be either examined in the files or in an XLSX table.",
+    "applicationCategory": "Computer Science",
+    "keywords": [
+        "Configuration Management",
+        "Security"
+    ],
+    "programmingLanguage": [
+        "Markdown",
+        "YAML"
+    ],
+    "operatingSystem": [
+        "Microsoft Windows Server 2016"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "@id": "https://www.in.tum.de/en/i04/stoeckle/",
+            "givenName": "Patrick",
+            "familyName": "Stöckle",
+            "email": "patrick.stoeckle@tum.de",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Chair of Software and Systems Engineering, Department of Informatics, Technical University of Munich"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Bernd",
+            "familyName": "Grobauer",
+            "email": "bernd.grobauer@siemens.com",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Siemens AG"
+            }
+        },
+        {
+            "@type": "Person",
+            "@id": "https://www.in.tum.de/en/i04/people/alexander-pretschner/",
+            "givenName": "Alexander",
+            "familyName": "Pretschner",
+            "email": "alexander.pretschner@tum.de",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Chair of Software and Systems Engineering, Department of Informatics, Technical University of Munich"
+            }
+        }
+    ]
+}
