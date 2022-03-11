@@ -50,7 +50,7 @@ preferred-citation:
     name: Virtual Event
     country: AU
   conference:
-    name: 'IEEE/ACM International Conference on Automated Software Engineering'
+    name: "ASE '20"
   collection-type: proceedings
   collection-title: 'Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering'
   authors:
