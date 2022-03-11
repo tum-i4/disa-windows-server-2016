@@ -20,12 +20,6 @@ authors:
     email: alexander.pretschner@tum.de
     affiliation: Technical University of Munich
     orcid: 'https://orcid.org/0000-0002-5573-1201'
-identifiers:
-  - type: doi
-    value: 10.1145/3324884.3416540
-    description: DOI
-  - type: url
-    value: 'https://doi.org/10.1145/3324884.3416540'
 repository-code: 'https://github.com/tum-i4/disa-windows-server-2016'
 keywords:
   - Configuration management
