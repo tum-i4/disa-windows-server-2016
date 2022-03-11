@@ -35,15 +35,22 @@ preferred-citation:
     Automated Implementation of Windows-related
     Security-Configuration Guides
   year: 2020
-  isbn: '9781450367684'
+  isbn: "9781450367684"
   publisher: 
     name: Association for Computing Machinery
+    country: USA
+    region: NY
+    city: New York 
   url: 'https://doi.org/10.1145/3324884.3416540'
   doi: '10.1145/3324884.3416540'
   pages: 13
   start: 598
   end: 610
-  location: 'Virtual Event, Australia'
+  location:
+    name: Virtual Event
+    country: AU
+  conference:
+    name: 'IEEE/ACM International Conference on Automated Software Engineering'
   collection-type: proceedings
   collection-title: 'Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering'
   authors:
